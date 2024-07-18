@@ -13,8 +13,8 @@ module.exports = {
       env_production: {
         NODE_ENV: "production",
       }
-    }, {
-       name: 'worker',
-       script: 'worker.js'
-    }]
+    
+    }
+
+]
   }
